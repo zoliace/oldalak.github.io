@@ -1,0 +1,5 @@
+Ezt a tudást azért jó elsajátítani, mert a mindennapi munkánk során elõ fog állni olyan helyzet, hogy rájövünk: bizony, vissza kell állni egy korábbi verzióra. Akár több nappal ezelõttire is. Legyen ennek oka egy elhibázott döntés, vagy megváltozott ügyféligény. Ha megfelelõen és átgondoltan használjuk a verziókövetést a projektünkben, akkor ez csupán pár kattintás. Ha nem, akkor csak reménykedhetünk, hogy még megtaláljuk a megfelelõ zip-et a levelezésben.
+
+A másik nagy elõnye, hogy egy szabályzott és hatékony eszközt biztosít a többi fejlesztõvel való együttmûködéshez. Eredetileg Linux kernel fejlesztése során felmerülõ problémák kezelésére fejlesztették ki, úgyhogy valószínûleg a mi igényeinket is képes lesz kielégíteni.
+
+Meg amúgy is, ki ne hallott volna már a GitHub-ról. Na ahhoz is ez kell. :)
